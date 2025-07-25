@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/hotel-banner.png" alt="Hotel Forecast Dashboard" width="100%">
-</p>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.8rem; font-weight: 700; color: #343a40;">
+  🔍 Smart Hotel Occupancy Forecasting
+</h1>
 
-<h1 align="center">🏨 Hotel Occupancy Forecasting Dashboard</h1>
-
-<p align="center">
-  <strong>Accurate hotel room occupancy forecasting using ARIMA + Laravel + Python</strong>
+<p align="center" style="font-size: 1.1rem; color: #6c757d;">
+  <em>Accurate forecasting system for hotel room occupancy using ARIMA, Laravel, Python & Bootstrap 5</em>
 </p>
 
 <p align="center">
@@ -141,4 +139,6 @@ pip install pandas statsmodels
 
 ---
 
-
+<p align="center">
+  Designed & built with ❤️ by <strong>Zyuuxyncool</strong>
+</p>
